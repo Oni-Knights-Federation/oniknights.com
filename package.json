@@ -1,5 +1,6 @@
 {
   "name": "oniknights.com",
+  "homepage": "https://www.oniknights.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
